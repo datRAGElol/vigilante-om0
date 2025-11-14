@@ -1,4 +1,9 @@
-Grand Theft Auto: San Andreas om0 tester
+Grand Theft Auto: San Andreas om0 practice script
+
+
+## Video example
+[![Vigilante OM0 Practice Demo](https://img.youtube.com/vi/YUYgQziocRM/maxresdefault.jpg)](https://www.youtube.com/watch?v=YUYgQziocRM)
+
 
 ## Controls
 
