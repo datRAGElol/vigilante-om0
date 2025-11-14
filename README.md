@@ -42,3 +42,7 @@ This mode is ideal for real gameplay practice once you understand the freeze tim
 2. Place the `.cs` script file into your `CLEO` directory.  
 3. Launch the game.  
 4. Start practicing Vigilante OM0 setups.
+
+## CREDITS
+Credits for the idea and original source code goes to the user Amime, discord: aminecrafter101.
+Original github repo: https://github.com/NoobJsPerson/cleo-scripts/
